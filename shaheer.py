@@ -47,14 +47,14 @@ def jalan(z):
 		time.sleep(0.001)
 
 #### colours ####
-R='\033[1;96m'
 R='\033[1;91m'
-R='\033[1;92m'
-R='\033[1;97m'
+G='\033[1;92m'
+B='\033[1;93m'
+B='\033[1;97m'
 R='\033[1;96m'
-R='\033[1;95m'
+B='\033[1;95m'
 R='\033[1;93m'
-R='\033[1;94m'
+B='\033[1;94m'
 
 #Dev: shaheer
 ##### LOGO #####
@@ -93,418 +93,22 @@ logo2 = """
 
 \033[1;93m--> YOUTUBE :-  None :) 
 
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
+\033[1;92m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
 \033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
 
 """
-logo3 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
 
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
+"...................................."
 
 """
-logo4 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
 
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo5 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo7 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo8 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo11 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-====================================
-====================================
-
-"""
-logo12 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo13 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo14 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo15 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo16 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo17 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo18 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo19 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo20 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo21 = """	
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo22 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo23 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-"""
-logo24 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
-
-
-"""
-logo25 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
-\033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
-
-\033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
-
-\033[1;92m--> FACEBOOK :- Shaheer Ahmed
-
-\033[1;93m--> YOUTUBE :-  None :) 
-
-\033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
-
-\033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
 """
 
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\x1b[1;91mPlease Wait \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		print("\r\x1b[1;912Please Wait \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -532,27 +136,14 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;92m "•••••••"
+\033[1;91m "•••••••"
 
-\033[1;92m  •
-\033[1;96m  •
-\033[1;91m  •
-\033[1;96m  • 
-\033[1;92m   •  
-\033[1;96m    •  
-\033[1;93m     •
-\033[1;96m    E N T E R  T O O L N A M E
-\033[1;96m    E N T E R  P A S S W O R D
-\033[1;95m     •
-\033[1;94m    •
-\033[1;96m   •
-\033[1;94m  •
-\033[1;95m  •
-\033[1;91m  •
-\033[1;96m  •
-\033[1;95m  •
 
-\033[1;96mm "•••••••"
+\033[1;93m    E N T E R  T O O L N A M E
+\033[1;93m    E N T E R  P A S S W O R D
+
+
+\033[1;91mm "•••••••"
 
 """
 
@@ -561,7 +152,7 @@ CorrectPassword = "Shaheer"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;97m\x1b[1;97mTool Username \x1b[1;97m • \x1b[1;97m")
+    username = raw_input("\033[1;93m\x1b[1;93mTool Username \x1b[1;93m • \x1b[1;93m")
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m\x1b[1;97mTool Password  \x1b[1;97m • \x1b[1;97m")
         if (password == CorrectPassword):
@@ -584,19 +175,19 @@ def lisensi():
 def login():
 	os.system('clear')
 	print logo11
-	print "1.\x1b[1;95mLogin  Facebook  "
+	print "1.\x1b[1;93mLogin  Facebook  "
         time.sleep(0.05)
         print "2.\x1b[1;95mWhat is acces Token How To Get Acces Token Free"
         time.sleep(0.05)
-        print "3.\x1b[1;95mLogin Using Token"
+        print "3.\x1b[1;93mLogin Using Token"
         time.sleep(0.05)
 	print "0.\033[1;95mExit           "
 	pilih_login()
 	
 def pilih_login():
-	peak = raw_input("\n\033[1;97mChoose an Option>>> \033[1;97m")
+	peak = raw_input("\n\033[1;92mChoose an Option>>> \033[1;97m")
 	if peak =="":
-		print "\x1b[1;91mFill in correctly"
+		print "\x1b[1;92mFill in correctly"
 		pilih_login()
 	elif peak =="1":
 		login1()
@@ -621,11 +212,11 @@ def login1():
                 time.sleep(0.05)
 		print logo13
 		jalan('  \033[1;91mNote Do Not Use Your Personal Account' )
-		jalan(' \033[1;92mCreate New Account For Login Safely' )
-		print "\033[1;93mNew Commands Use It For Cloning"
+		jalan(' \033[1;92mLOGING THROUGH TOKEN' )
+		print "\033[1;93m USE NEW ID "
 		print('	' )
-		id = raw_input('\x1b[1;94mFacebook Email/Pass : \x1b[1;94m')
-		pwd = raw_input('\x1b[1;94mPassword  \x1b[1;94m')
+		id = raw_input('\x1b[1;91mFacebook Email/Pass : \x1b[1;94m')
+		pwd = raw_input('\x1b[1;91mPassword  \x1b[1;94m')
 		tik()
 		try:
 			br.open('https://m.facebook.com')
@@ -825,7 +416,7 @@ def pilih_crack():
 						print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass2
 						oks.append(user+pass2)
 					else:
-						if 'www.facebook.com' in s["error_msg"]:
+						if 'www.facebook.com' in s["●_msg"]:
 							print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass2
 							cek = open("out/checkpoint.txt", "k")
 							cek.write(user+"|"+pass2+"\n")
@@ -839,7 +430,7 @@ def pilih_crack():
 								print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass3
 								oks.append(user+pass3)
 							else:
-								if 'www.facebook.com' in s["error_msg"]:
+								if 'www.facebook.com' in s["•_msg"]:
 									print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass3
 									cek = open("out/checkpoint.txt", "k")
 									cek.write(user+"|"+pass3+"\n")
@@ -853,7 +444,7 @@ def pilih_crack():
 										print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m' + pass4
 										oks.append(user+pass4)
 									else:
-										if 'www.facebook.com' in s["error_msg"]:
+										if 'www.facebook.com' in s["●_msg"]:
 											print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass4
 											cek = open("out/checkpoint.txt", "k")
 											cek.write(user+"|"+pass4+"\n")
@@ -867,7 +458,7 @@ def pilih_crack():
 												print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass5
 												oks.append(user+pass5)
 											else:
-												if 'www.facebook.com' in s["error_msg"]:
+												if 'www.facebook.com' in s["●_msg"]:
 													print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass5
 													cek = open("out/checkpoint.txt", "k")
 													cek.write(user+"|"+pass5+"\n")
@@ -881,7 +472,7 @@ def pilih_crack():
 														print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass6
 														oks.append(user+pass6)
 													else:
-														if 'www.facebook.com' in s["error_msg"]:
+														if 'www.facebook.com' in s["●_msg"]:
 															print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass6
 															cek = open("out/checkpoint.txt", "k")
 															cek.write(user+"|"+pass6+"\n")
@@ -895,7 +486,7 @@ def pilih_crack():
 																print '\x1b[1;93mLive\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
 																oks.append(user+pass7)
 															else:
-																if 'www.facebook.com' in s["error_msg"]:
+																if 'www.facebook.com' in s["●_msg"]:
 																	print '\x1b[1;93mError\x1b[1;97m \x1b[1;97m\x1b[1;97m ' + user + ' \x1b[1;97m\x1b[1;97m ' + pass7
 																	cek = open("out/checkpoint.txt", "k")
 																	cek.write(user+"|"+pass7+"\n")
@@ -921,7 +512,7 @@ def pilih_crack():
 
 
 
-\033[1;92m ERROR ID AFTER 2 WEEKS (14DAYS)
+\033[1;92m CP ID AFTER 2 WEEKS (14DAYS)
 
 """
 	
