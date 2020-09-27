@@ -47,13 +47,13 @@ def jalan(z):
 		time.sleep(0.001)
 
 #### colours ####
-B='\033[1;96m'
+R='\033[1;96m'
 R='\033[1;91m'
-G='\033[1;92m'
-W='\033[1;97m'
-S='\033[1;96m'
-P='\033[1;95m'
-Y='\033[1;93m'
+R='\033[1;92m'
+R='\033[1;97m'
+R='\033[1;96m'
+R='\033[1;95m'
+R='\033[1;93m'
 R='\033[1;94m'
 
 #Dev: shaheer
@@ -79,13 +79,13 @@ logo = """
 
 """
 logo2 = """
-\033[1;93m •
-\033[1;93m •
-\033[1;93m •
+\033[1;93m•
+\033[1;93m•
+\033[1;93m•
 \033[1;93m   S H 4 H 3 3 R  A K  4 7
-\033[1;93m •
-\033[1;93m •
-\033[1;93m╱╱╱ •
+\033[1;93m•
+\033[1;93m•
+\033[1;93m╱╱╱•
 
 \033[1;91m--> GITHUB :- https://github.com/shaheerAk47/venom
 
@@ -532,7 +532,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """
 
-\033[1;92m======================================
+\033[1;92m "•••••••"
 
 \033[1;92m  •
 \033[1;96m  •
@@ -541,7 +541,7 @@ print  """
 \033[1;92m   •  
 \033[1;96m    •  
 \033[1;93m     •
-\033[1;96m     E N T E R T O O L N A M E
+\033[1;96m    E N T E R  T O O L N A M E
 \033[1;96m    E N T E R  P A S S W O R D
 \033[1;95m     •
 \033[1;94m    •
@@ -552,7 +552,7 @@ print  """
 \033[1;96m  •
 \033[1;95m  •
 
-\033[1;96m-------------------
+\033[1;96mm "•••••••"
 
 """
 
@@ -561,9 +561,9 @@ CorrectPassword = "Shaheer"
 
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;97m\x1b[1;97mTool Username \x1b[1;97m------- \x1b[1;97m")
+    username = raw_input("\033[1;97m\x1b[1;97mTool Username \x1b[1;97m • \x1b[1;97m")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;97m\x1b[1;97mTool Password  \x1b[1;97m------- \x1b[1;97m")
+    	password = raw_input("\033[1;97m\x1b[1;97mTool Password  \x1b[1;97m • \x1b[1;97m")
         if (password == CorrectPassword):
             print "Logged in successfully as " + username #Dev:qaiser
 	    time.sleep(2)
@@ -790,7 +790,7 @@ def pilih_crack():
 	print "\033[1;96mTo Stop Process Press CTRL then Z"
 	print "\033[1;91m-------------------------------------------------------------------"
 	jalan(' \033[1;95mPlz Wait Cloned Accounts Will Appear Here')
-        jalan(' \033[1;95m      Started Cloning Wait A while ☕ ')
+        jalan(' \033[1;95m      CLONING PROCESS STARTED :P ')
 	print "\033[1;91m----------------------------------------"
 	
 			
