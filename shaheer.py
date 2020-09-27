@@ -79,7 +79,7 @@ logo = """
 
 """
 logo2 = """
-\033[1;93m
+\033[1;93m •
 \033[1;93m •
 \033[1;93m •
 \033[1;93m   S H 4 H 3 3 R  A K  4 7
@@ -116,6 +116,7 @@ logo3 = """
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
 \033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
+
 """
 logo4 = """
 \033[1;93m •
@@ -135,6 +136,7 @@ logo4 = """
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
 \033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
+
 """
 logo5 = """
 \033[1;93m •
@@ -154,6 +156,7 @@ logo5 = """
 \033[1;94m--> DISCLAIMRR :- This Tool Is only for Educational Purposes I am not responsible for any miss use
 
 \033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
+
 """
 logo7 = """
 \033[1;93m •
