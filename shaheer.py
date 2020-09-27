@@ -78,6 +78,7 @@ logo = """
 \033[1;95m--> NOTE  :- I AM NOT RESPONSIPLE FOR ANY MIS USE :-)
 
 """
+logo2 = """
 \033[1;93m •
 \033[1;93m •
 \033[1;93m •
